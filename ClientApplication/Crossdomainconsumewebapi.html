@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <title></title>
+    <!--//Step 3 Add script file//-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#btnshow').click(function () {
+                $.ajax({
+                    type: "GET",
+                    url: 'http://localhost:44552/api/Employee',
+                    datatype: 'json', // Fix contentType to application/json
+                    success: function (data) {
+                        $('#ULEmployee').empty(); // Clear existing list items
+                        $.each(data, function (index, val) {
+                            var fullname = val.FirstName + ' ' + val.LastName; // Concatenate first and last name
+                            $('#ULEmployee').append('<li>' + fullname + '</li>'); // Add employee to the list
+                        });
+                    },
+                    error: function (xhr, status, error) {
+                        console.log("Error: " + error); // Add error handling for better debugging
+                    }
+                });
+            });
+
+            $('#btnClear').click(function () {
+                $('#ULEmployee').empty(); // Clear list on button click
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <!--//Step2 Add buuton and Ullist//-->
+    <input id="btnshow" type="button" value="Get All Employee" />
+    <input id="btnClear" type="button" value="Clear" />
+    <ul id="ULEmployee">
+    </ul>
+    <!--//Step2 close Add buuton and Ullist//-->
+</body>
+</html>
