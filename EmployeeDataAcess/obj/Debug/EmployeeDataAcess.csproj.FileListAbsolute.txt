@@ -1,0 +1,21 @@
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EmployeeDataAcess.dll.config
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EmployeeDataAcess.dll
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EmployeeDataAcess.pdb
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.dll
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.xml
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.dll
+c:\users\hafij ahmad\documents\visual studio 2013\Projects\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.pdb
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.csproj.CoreCompileInputs.cache
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.dll
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.pdb
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EmployeeDataAcess.dll.config
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EmployeeDataAcess.dll
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EmployeeDataAcess.pdb
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.dll
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.xml
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.csproj.CopyComplete
+C:\Users\HAFIJ AHMAD\Desktop\Projects Training\EmployeeServices\EmployeeDataAcess\obj\Debug\EmployeeDataAcess.csproj.AssemblyReference.cache
